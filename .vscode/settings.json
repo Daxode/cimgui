@@ -1,0 +1,10 @@
+{
+    "cmake.configureSettings": {
+        "IMGUI_FREETYPE": "TRUE",
+        "CMAKE_TOOLCHAIN_FILE": "C:/UnitySrc/sdk/vcpkg/scripts/buildsystems/vcpkg.cmake",
+        // "VCPKG_LIBRARY_LINKAGE": "static"
+    },
+    
+    // "cmake.buildDirectory": "${workspaceFolder}/../cimgui-build"
+    // "cmake.installPrefix": "${workspaceFolder}/../cimgui-build"
+}
