@@ -1,0 +1,1 @@
+./cmake.exe -G "Visual Studio 17 2022" -DCMAKE_TOOLCHAIN_FILE=C:\UnitySrc\sdk\vcpkg\scripts\buildsystems\vcpkg.cmake -DIMGUI_FREETYPE:STRING=yes -DVCPKG_TARGET_TRIPLET:STRING=x64-windows-static -DCMAKE_INSTALL_PREFIX:PATH=$CMakeProjectDir$/../cimgui-build
